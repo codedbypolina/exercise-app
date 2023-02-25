@@ -1,0 +1,39 @@
+body {
+  color: white;
+}
+
+button {
+  display: block;
+  margin: 10px 0px;
+  text-decoration: none;
+  border: none;
+  height: 30px;
+  width: 150px;
+  border-radius: 3px;
+}
+
+.buttons {
+  text-decoration: none;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  background-color: #1a1b21;
+  position: relative;
+  background-color: #1a1b21;
+  width: max-content;
+  margin: 5%;
+  padding: 10%;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.icon {
+  font-size: 50px;
+  color: white;
+}
